@@ -1,6 +1,6 @@
 # Flight Data Analysis Project
 
-This is a beginner project for exploring and cleaning flight data using Python and pandas.
+This is a project for exploring and cleaning flight data using Python and pandas.
 
 ## 📁 Project Structure
 
