@@ -20,7 +20,7 @@ datasets, code, and explanations.
   preprocessing, and model training.
 
 - `My_project_folder/`  
-  _[Brief description of any other folder you add later]_
+  _[Brief description of any other folder I will add later]_
 
 ---
 
